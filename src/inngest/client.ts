@@ -2,6 +2,6 @@ import { Inngest } from "inngest";
 
 // Create a client to send and receive events
 export const inngest = new Inngest({
-  id: "Sansei",
+  id: "lovable-clone",
   signingKey: process.env.INNGEST_SIGNING_KEY,
 });
